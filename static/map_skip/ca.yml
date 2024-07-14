@@ -23,6 +23,14 @@
     {:chardelay 3D 00}The Black Pearl!
 
     {:chardelay 00 00}Never mind...
+  sp: >-
+    {:unk08 02 00 06}¡Zarpar a--
+
+    {:chardelay 3C 00}Port Royal!
+
+    {:chardelay 3D 00}La Perla Negra!
+
+    {:chardelay 00 00}No importa...
 - id: 0x183D
   je: >-
     {:unk08 02 00 06}どこに向かおうか--
@@ -42,6 +50,12 @@
     {:chardelay 3C 00}Port Royal!
 
     {:chardelay 00 00}Never mind...
+  sp: >-
+    {:unk08 02 00 06}¡Zarpar a--
+
+    {:chardelay 3C 00}Port Royal!
+
+    {:chardelay 00 00}No importa...
 - id: 0x183E
   je: >-
     {:unk08 02 00 06}どこに向かおうか--
@@ -67,6 +81,14 @@
     {:chardelay 3E 00}Isla de Muerta!
 
     {:chardelay 00 00}Never mind...
+  sp: >-
+    {:unk08 02 00 06}¡Zarpar a--
+
+    {:chardelay 3C 00}Port Royal!
+
+    {:chardelay 3E 00}Isla de Muerta!
+
+    {:chardelay 00 00}No importa...
 - id: 0x183F
   je: >-
     {:unk08 02 00 06}どこに向かおうか--
@@ -98,3 +120,13 @@
     {:chardelay 3F 00}Ship Graveyard!
 
     {:chardelay 00 00}Never mind...
+  sp: >-
+    {:unk08 02 00 06}¡Zarpar a--
+
+    {:chardelay 3C 00}Port Royal!
+
+    {:chardelay 3E 00}Isla de Muerta!
+
+    {:chardelay 3F 00}Cementerio de barcos!
+
+    {:chardelay 00 00}No importa...
